@@ -1,0 +1,17 @@
+{
+  "start_time": "08:00",
+  "end_time": "23:00",
+  "backup_time": 10,
+  "nfs_server" : "xxxxx",
+  "nfs_path":"xxx/xxx/",
+  "dir_name":"xxxxx",
+  "database":{
+    "db_user":"xxxx",
+    "db_pass":"xxxx",
+    "dbs": {"db1":"db1_out",
+            "db2": "db2_out_<date>"}
+  },
+  "source":{
+    "source_path_list":{}
+  }
+}
